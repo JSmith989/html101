@@ -61,3 +61,11 @@ footer {
 .card img {
     height: 100%;
 }
+
+.people img{
+    border: 1px solid grey;
+    height: 30%;
+    float: none;
+    margin: 10px;
+    width: 45%;
+}
